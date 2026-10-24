@@ -1,3 +1,0 @@
-Company,Products,Products_with_core_data,Products_with_base_clock,Products_with_boost_clock,Products_with_TDP,Median_base_clock_GHz,Median_boost_clock_GHz,Median_TDP_W
-AMD,383,383,381,356,378,3.25,4.1,65.0
-Intel,1238,1238,1225,982,1228,2.6,3.7,65.0
