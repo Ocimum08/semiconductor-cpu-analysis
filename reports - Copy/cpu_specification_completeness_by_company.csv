@@ -1,0 +1,3 @@
+Company,Products,Core_data_available,Threads_available,Base_clock_available,Boost_clock_available,TDP_available,Core_data_available_pct,Threads_available_pct,Base_clock_available_pct,Boost_clock_available_pct,TDP_available_pct
+AMD,383,383,383,381,356,378,100.0,100.0,99.5,93.0,98.7
+Intel,1238,1238,1238,1225,982,1228,100.0,100.0,98.9,79.3,99.2
