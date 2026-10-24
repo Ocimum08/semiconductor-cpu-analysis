@@ -49,6 +49,10 @@ These are descriptive statistics for the products represented in the dataset, no
 - Source values may contain inconsistencies.
 - CPU products differ in generation and intended use, so averages alone cannot establish which manufacturer has better performance.
 - Results depend on the coverage and quality of the source dataset.
+  
+## Dashboard Preview
+
+![Semiconductor CPU Analysis Dashboard](Dashboard%20Screenshot.png)
 
 ## Author
 Created as a data analytics portfolio project to demonstrate practical skills in Python, SQL, data cleaning, and Power BI.
